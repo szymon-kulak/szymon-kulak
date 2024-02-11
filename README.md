@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @szymon-kulak
+### 👋 Hi, my name is Szymon Kulak
 - 👀 I’m interested in web development, gaming and philosophy
-- 🌱 I’m currently learning React.js and C#
+- 📝 I've been coding in JavaScript for 8 months
+- 🏋 I feel confident working in React 
+- 🌱 I’m currently learning Node.js, PostgreSQL and TypeScript
 - 📫 e-mail me at szymon.kulak@proton.me
 
 <!---
